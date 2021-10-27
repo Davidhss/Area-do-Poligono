@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\bin\Debug\SwitchCase_ComboBox.exe.config
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\bin\Debug\SwitchCase_ComboBox.exe
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\bin\Debug\SwitchCase_ComboBox.pdb
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\obj\Debug\SwitchCase_ComboBox.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\obj\Debug\SwitchCase_ComboBox.Properties.Resources.resources
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\obj\Debug\SwitchCase_ComboBox.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\obj\Debug\SwitchCase_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\obj\Debug\SwitchCase_ComboBox.exe
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\obj\Debug\SwitchCase_ComboBox.pdb
+C:\Users\David\Desktop\Etec\PA - Programação e Algoritmos\CSharp\Programas\SwitchCase_ComboBox\SwitchCase_ComboBox\obj\Debug\SwitchCase_ComboBox.frmPoligono.resources
